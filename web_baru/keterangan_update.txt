@@ -1,7 +1,0 @@
-sudah bisa menampilkan lahan 1 dengan data dari Lora 0
-sudah bisa menampilkan lahan 2 dengan data dari Lora 1
-sudah bisa menampilkan data terbaru di index.php(dash borad utama) dengan data dari lora 0
-api asset dll tidak ada perubahan
-ganti footer di landingpage menjadi biru
-sudah bisa menampilkan lahan 3 dengan data dari Lora 2
-sudah bisa menampilkan lahan 4 dengan data dari Lora 3
